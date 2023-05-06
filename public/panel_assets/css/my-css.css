@@ -1,0 +1,14 @@
+.weekly-table{
+    line-height:36px;
+    color: black;
+    font-size: 18px;
+    font-weight: bold
+}
+/*#book_not_get
+{
+    display:none;
+}
+#check_no:checked  ~ #book_not_get{
+    display: block;
+
+}*/
